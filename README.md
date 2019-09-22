@@ -1,1 +1,1 @@
-﻿#  https://TairDal.io/rsschool-cv/cv
+﻿#  https://TairDal.github.io/rsschool-cv/cv
